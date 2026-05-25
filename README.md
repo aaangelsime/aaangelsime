@@ -3,7 +3,7 @@
 # 💫 About Me:
 I'm a Computer Science & Applied Mathematics student with a passion for becoming a polymath. My curiosity spans philosophy, history, chemistry, physics, finance, and beyond — always finding connections between fields that seem unrelated on the surface.
 
-Like many, I'm still figuring out life — but I've chosen to do it by learning as much as possible along the way.
+Like many, I'm still figuring out life, but I've chosen to do it by learning as much as possible along the way.
 
 Outside of academics, you'll find me reading, summiting 14ers, wrenching on cars, and connecting with curious, like-minded people.
 

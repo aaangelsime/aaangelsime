@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Second-year Electrical and Computer Engineering (ECE) student focused on strengthening embedded systems fundamentals through hands-on projects. Passionate about low-level programming, system design, and continuous learning. <br>Outside of engineering, I enjoy reading, climbing 14ers, and connecting with like-minded people.<br><br>“A jack of all trades is a master of none, but oftentimes better than a master of one.”
+I'm a Computer Science & Applied Mathematics student with a passion for becoming a polymath. My curiosity spans philosophy, history, chemistry, physics, finance, and beyond — always finding connections between fields that seem unrelated on the surface.
+
+Like many, I'm still figuring out life — but I've chosen to do it by learning as much as possible along the way.
+
+Outside of academics, you'll find me reading, summiting 14ers, wrenching on cars, and connecting with curious, like-minded people.
+
+"A jack of all trades is a master of none, but oftentimes better than a master of one."
 
 
 ## 🌐 Socials:

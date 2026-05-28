@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm a Computer Science & Applied Mathematics student with a passion for becoming a polymath. My curiosity spans philosophy, history, chemistry, physics, finance, computer science and mathematics — always finding connections between fields that seem unrelated on the surface.
+I'm a Computer Science & Applied Mathematics student with a passion for becoming a polymath. My curiosity spans philosophy, history, chemistry, physics, finance, electroncis, computer science and mathematics — always finding connections between fields that seem unrelated on the surface.
 
 Like many, I'm still figuring out life, but I've chosen to do it by learning as much as possible along the way.
 
